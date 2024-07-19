@@ -1,4 +1,3 @@
-import Iter "mo:base/Iter";
 import { test } "mo:test";
 import Debug "mo:base/Debug";
 
